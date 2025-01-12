@@ -59,7 +59,8 @@ XploitAI Burp - Scanner is a Burp Suite extension designed to enhance web applic
 
 ## Screenshots
 
-![Main Interface](image/main_interface.png)  
+![image](https://github.com/user-attachments/assets/7cea2a6a-0c2c-45e6-84e0-35b1f0ab630a)
+
 *Main Interface of XploitAI Burp - Scanner*
 
 ![Vulnerable URLs](image/vulnerable_urls.png)  
