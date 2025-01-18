@@ -1,0 +1,5 @@
+requests
+numpy>=1.23.0
+pandas
+scikit-learn>=1.0.0
+tensorflow>=2.18.0

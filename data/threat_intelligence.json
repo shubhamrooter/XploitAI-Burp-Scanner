@@ -1,0 +1,5 @@
+{
+    "malicious_ips": ["192.168.1.100", "10.0.0.1"],
+    "malicious_domains": ["evil.com", "phishing.site"],
+    "vulnerable_endpoints": ["/login", "/admin"]
+}
