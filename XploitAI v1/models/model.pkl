@@ -1,9 +1,0 @@
-import pickle
-from sklearn.ensemble import RandomForestClassifier
-
-# Create a dummy model
-model = RandomForestClassifier()
-
-# Save the model to a file
-with open("models/model.pkl", "wb") as f:
-    pickle.dump(model, f)
